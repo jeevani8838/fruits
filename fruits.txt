@@ -3,3 +3,6 @@ mangos
 bananas
 watermelon
 guava
+adding some more fruits
+pineapple
+apple
